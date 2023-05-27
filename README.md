@@ -16,7 +16,7 @@ pip install nltk transformers pandas
 
 ### File Description
 
-Web_Scraping_Printer_Reviews.ipynb: This script is responsible for scraping the HP printer reviews from Amazon's website. It utilizes web scraping techniques to extract the review data and saves it in a text file.
+Web_Scraping_Printer_Reviews.ipynb: This script is responsible for scraping the HP printer reviews from Amazon's website. It utilizes web scraping techniques to extract the review data and saves it in a text file. If you want to change the product just change the link present in the script.
 
 HP_Printer_Sentiment_Analysis.ipynb: This script performs sentiment analysis on the scraped reviews using both the VADER model and the RoBERTa pretrained model. The reviews are processed, and sentiment scores and labels are assigned. The results are saved in a CSV file.
 
